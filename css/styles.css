@@ -38,10 +38,10 @@ body {
 .card__header {
 	background-image: url(../images/illustration-hero.svg);
 	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
-	height: 180px;
-	width: 100%;
+	background-size: contain;
+	background-position: top;
+	min-height: 160px;
+  width: 100%;
 }
 
 .container {
