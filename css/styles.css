@@ -41,13 +41,12 @@ body {
 	background-size: contain;
 	background-position: top;
 	min-height: 160px;
-  width: 100%;
+	width: 100%;
 }
 
 .container {
 	text-align: center;
 	padding: 24px 32px;
-
 }
 
 #summary h1 {
@@ -59,9 +58,9 @@ body {
 
 #summary p {
 	line-height: 26px;
-  font-weight: 600;
+	font-weight: 600;
 	color: rgb(113, 127, 166, 100);
-  padding: 0 20px;
+	padding: 0 20px;
 }
 
 #change {
@@ -76,8 +75,8 @@ body {
 
 #selection_box {
 	justify-content: space-evenly;
-	width: 354px;
-  height: 98px;
+	width: 279px;
+	height: 81px;
 	align-items: center;
 	background-color: #f7f9ff;
 	border-radius: 11px;
@@ -94,8 +93,8 @@ body {
 
 .payment {
 	text-align: center;
-  width: 354px;
-  height: 50px;
+	width: 279px;
+	height: 50px;
 }
 
 .payment a {
@@ -166,10 +165,10 @@ footer p a {
 		width: 450px;
 		height: 697px;
 	}
-  .card__header {
-	background-position: top;
-	min-height: 240px;
-}
+	.card__header {
+		background-position: top;
+		min-height: 240px;
+	}
 	.container {
 		text-align: center;
 	}
@@ -179,8 +178,15 @@ footer p a {
 		font-weight: 900;
 	}
 
+	#selection_box {
+		width: 354px;
+		height: 98px;
+	}
+
 	.payment {
 		margin: 2rem auto;
+		width: 354px;
+		height: 50px;
 	}
 	.payment a:last-child {
 		margin-top: 2rem;
