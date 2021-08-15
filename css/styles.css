@@ -22,8 +22,8 @@ body {
 }
 
 .card {
-	min-width: 327px;
-	max-width: 375px;
+	width: 327px;
+	height: 567px;
 	margin: 0 auto;
 	margin-top: 72px;
 	display: flex;
@@ -46,7 +46,7 @@ body {
 
 .container {
 	text-align: center;
-	padding: 2rem;
+	padding: 1.9rem;
 }
 
 #summary h1 {
@@ -159,8 +159,8 @@ footer p a {
 	}
 
 	.card {
-		min-width: 450px;
-		min-height: 697px;
+		width: 450px;
+		height: 697px;
 	}
   .card__header {
 	background-position: top;
