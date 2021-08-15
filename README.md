@@ -36,6 +36,9 @@ Users should be able to:
 #### Interactive state on Hover over the payment link...<br>
 
 ![](/images/hover-payment.png)
+#### Interactive state on Hover over the payment link...<br>
+
+![](/images/hover-cancel.png)
 
 ### Links
 
