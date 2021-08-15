@@ -46,7 +46,8 @@ body {
 
 .container {
 	text-align: center;
-	padding: 1.9rem;
+	padding: 24px 32px;
+
 }
 
 #summary h1 {
@@ -75,7 +76,8 @@ body {
 
 #selection_box {
 	justify-content: space-evenly;
-	min-height: 98px;
+	width: 354px;
+  height: 98px;
 	align-items: center;
 	background-color: #f7f9ff;
 	border-radius: 11px;
@@ -92,6 +94,8 @@ body {
 
 .payment {
 	text-align: center;
+  width: 354px;
+  height: 50px;
 }
 
 .payment a {
