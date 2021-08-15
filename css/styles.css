@@ -164,7 +164,7 @@ footer p a {
 	}
   .card__header {
 	background-position: top;
-	height: 240px;
+	min-height: 240px;
 }
 	.container {
 		text-align: center;
