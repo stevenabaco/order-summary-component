@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshots
 
-Normal state of component...
+Normal state of component... <br>
 ![](/images/normal-state.png)
 
-Hover over change link state ...
+Hover over change link state ...<br>
 ![](/images/hover-change.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
