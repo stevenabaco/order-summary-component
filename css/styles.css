@@ -170,7 +170,7 @@ footer p a {
 
 	.card {
 		min-width: 450px;
-		min-height: 690px;
+		min-height: 6px;
 	}
   .card__header {
 	background-position: top;
@@ -178,7 +178,6 @@ footer p a {
 }
 	.container {
 		text-align: center;
-		padding: 3rem;
 	}
 	#summary h1 {
 		font-size: 28px;
