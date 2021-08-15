@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [www.frontendmentor.io/profile/stevenabaco](https://www.frontendmentor.io/profile/stevenabaco)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [stevenabaco.github.io/order-summary-component-main/](https://stevenabaco.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -50,13 +50,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
