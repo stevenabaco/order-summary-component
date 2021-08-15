@@ -58,9 +58,9 @@ body {
 
 #summary p {
 	line-height: 26px;
-  font-weight: 700;
+  font-weight: 600;
 	color: rgb(113, 127, 166, 100);
-  padding: 20px;
+  padding: 0 20px;
 }
 
 #change {
