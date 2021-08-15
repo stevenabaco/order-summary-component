@@ -172,6 +172,10 @@ footer p a {
 		min-width: 450px;
 		min-height: 697px;
 	}
+  .card__header {
+	background-position: top;
+	height: 220px;
+}
 	.container {
 		text-align: center;
 		padding: 3rem;
