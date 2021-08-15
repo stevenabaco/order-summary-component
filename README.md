@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshots
 
-Normal state of component... <br>
+#### This is the components Normal state ... <br>
 ![](/images/normal-state.png)
 
 Hover over change link state ...<br>
